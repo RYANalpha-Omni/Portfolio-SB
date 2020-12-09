@@ -523,7 +523,7 @@ input[type="submit"]:hover{
 /*START MEDIA QUERIES*/
 @media screen and (max-width:768px) {
     body{        
-        background-image: url("images/comet_meteorite_starry_sky_178933_1920x1080.jpg");
+        background-image: url("Images/comet_meteorite_1920x1080.jpg");
         background-repeat: no-repeat;
         background-position: center;
         background-attachment: fixed;
